@@ -1,7 +1,5 @@
-import json
-import sys
 import os
+import sys
 
-x = 1  
-y = "unused"  
+x = 1
 print(x)
